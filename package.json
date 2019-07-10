@@ -1,0 +1,21 @@
+{
+  "name": "finwhalex-token-smart-contracts",
+  "version": "1.1.9",
+  "description": "FinWhaleX Token Smart Contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "truffle": "^5.0.26",
+    "truffle-hdwallet-provider": "^1.0.12",
+    "web3-utils": "^1.0.0-beta.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "FinWhaleX PTE LTD",
+  "license": "Apache 2.0"
+}
